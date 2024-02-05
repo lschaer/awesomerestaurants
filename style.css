@@ -1,0 +1,23 @@
+:root {
+    --main-bg-color-dark: #474747;
+    --main-accent-color-dark: #ffc500;
+    font-family: monospace;
+}
+
+body {
+    margin-top: 5%;
+    background: linear-gradient(240deg, var(--main-bg-color-dark) 0%, var(--main-accent-color-dark) 100%);
+    height: 200em;
+}
+
+h1 {
+    font-size: 20px;
+    margin-left: 10%;
+    color: whitesmoke;
+}
+
+h2 {
+    font-size: 14px;
+    margin-left: 10%;
+    color: whitesmoke;
+}
