@@ -21,7 +21,6 @@ const getRandomChoice = (region) => {
     setTimeout(() => {
         window.addEventListener("scroll", (event) => {
             if(window.pageYOffset > 500) {
-                console.log(window.pageYOffset);
                 choice.firstChild.classList.remove("highlight");
             }
         })
@@ -146,6 +145,7 @@ const ListProjector = (listController, rootElement, restaurant, formController) 
                 const nameWithoutSpaces = value.replace(/[&\s]/g,'');
                 const list = rootElement.querySelector(`#detailView-${nameWithoutSpaces}`);
                 const randomChoiceButton = document.getElementById("getRandomChoiceButton");
+                const randomChoiceContainer = document.getElementById("getRandomChoiceContainer");
                 restaurant.regionID.getObs(VALUE).onChange( region => {
                     const regionElement = rootElement.querySelector(`#Region-toggle-${region}`);
                     if(regionElement.hasAttribute("open")){
@@ -158,11 +158,11 @@ const ListProjector = (listController, rootElement, restaurant, formController) 
                 });
                 listTitleLabel.addEventListener("click", () => {
                     if (list.hasAttribute("open")) {
-                        list.removeAttribute("closed");
+                        list.setAttribute("closed", "");
                         list.setAttribute("closing", "");
                         list.removeAttribute("open");
                         listTitleLabel.removeAttribute("open");
-                        randomChoiceButton.style.setProperty("display","none");
+                        randomChoiceContainer.style.setProperty("display","none");
                         rootElement.querySelector(`#${regionid}-arrow`).innerHTML = '&#x25B4;';
                     } else {
                         list.removeAttribute("closing");
@@ -170,7 +170,7 @@ const ListProjector = (listController, rootElement, restaurant, formController) 
                         list.setAttribute("open", "");
                         listTitleLabel.setAttribute("open", "");
                         if (Number(entryCounter.textContent)>1){
-                            randomChoiceButton.style.setProperty("display","block");
+                            randomChoiceContainer.style.setProperty("display","grid");
                             randomChoiceButton.onclick = _ => {
                                console.log(`Random-Choice from: ${regionid}`);
                                getRandomChoice(regionid);
