@@ -306,6 +306,15 @@ const restaurantData = {
       "category": "leger",
       "maps_link": "https://goo.gl/maps/wGiWzgberWYKaemg8",
       "last_update": "14 Sep 2023"
+    },    
+    {
+      "name": "Hello World",
+      "regionID" : "Zug",
+      "description": "Tolle Mittagsmenü und gute Auswahl. Perfekt für ein kurzes Treffen am Mittag oder Abend. Nettes Personal und angenehmes Ambiente. Jeweils gut ausgebucht unter der Woche.",
+      "rating": "3",
+      "category": "leger",
+      "maps_link": "https://maps.app.goo.gl/Wq3wfDxEHAZzjiY58?g_st=ic",
+      "last_update": "14 Oct 2023"
     }
     ]
 };
