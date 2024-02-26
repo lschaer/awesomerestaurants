@@ -168,11 +168,13 @@ const ListProjector = (listController, rootElement, restaurant, formController) 
                         list.removeAttribute("closing");
                         list.removeAttribute("closed");
                         list.setAttribute("open", "");
+                        listTitleLabel.scrollIntoView( {
+                            behavior: "smooth"
+                        });
                         listTitleLabel.setAttribute("open", "");
                         if (Number(entryCounter.textContent)>1){
                             randomChoiceContainer.style.setProperty("display","grid");
                             randomChoiceButton.onclick = _ => {
-                               console.log(`Random-Choice from: ${regionid}`);
                                getRandomChoice(regionid);
                             };
                         }
