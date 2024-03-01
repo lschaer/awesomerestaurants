@@ -357,17 +357,9 @@ form h2{
     grid-template-columns: 1fr 12fr 1fr;
 }
 
-
-/* Make a bubble around the counter - not used
 .counter {
-    border-radius: 50%;
-    width: 2.2em;
-    border-color: var(--main-accent-color-dark);
-    background-color: var(--main-accent-color-dark);
-    color: black;
-    align-content: center;
+    margin-right: 1em;
 }
- */
 
 
 @keyframes show-delayed{
@@ -507,6 +499,7 @@ form h2{
     }
     .title{
         font-size: 1.5em;
+        grid-template-columns: 0fr 1fr;
     }
 
 }
