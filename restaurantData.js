@@ -22,6 +22,9 @@ const regionData = {
       "name": "Seelisberg"
     },
     {
+      "name": "Sempachersee"
+    },
+    {
       "name": "Stans"
     },
     {
@@ -324,6 +327,15 @@ const restaurantData = {
       "category": "gehoben",
       "maps_link": "https://maps.app.goo.gl/x6dufaKMUBxhiHBL8",
       "last_update": "21 Mar 2024"
+    },
+    {
+      "name": "Bahnhöfli",
+      "regionID" : "Sempachersee",
+      "description": "Immer gut besucht, eine Reservation ist definitiv zu empfehlen. Ob Burger mit Curly Fries, Rinds-Tatar oder der Tagesteller mit saisonaler Auswahl, die Gerichte sind schön angerichtet und super lecker. Das Ambiente im alten Bahnhofsgebäude hat viel Charme und ist angenehm. Als Bierliebhaber findet sich zudem eine grosse und wechselnde Auswahl diverser Biersorten, zum Wohl.",
+      "rating": "4",
+      "category": "leger",
+      "maps_link": "https://maps.app.goo.gl/UYXKjwxJ2p7xpsNh7",
+      "last_update": "22 Mar 2024"
     }
     ]
 };
