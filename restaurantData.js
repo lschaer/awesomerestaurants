@@ -315,6 +315,15 @@ const restaurantData = {
       "category": "leger",
       "maps_link": "https://maps.app.goo.gl/Wq3wfDxEHAZzjiY58?g_st=ic",
       "last_update": "14 Oct 2023"
+    },
+    {
+      "name": "Zwyssighaus",
+      "regionID" : "Altdorf",
+      "description": "Wunderbares Ambiente im kleinen Dorf Bauen. Die Gastgeberin führt mit einer ansteckenden Leidenschaft und Freude durch den Abend. Die Karte ist vielfältig und bietet Gerichte aus lokalen Zutaten. Wunderschön angerichtet und perfekt im Geschmack. Wie viele Gänge man mag, kann jeder selbst bestimmen. Mit vier Gängen sollte alle auf ihre Kosten kommen, zusammenstellen kann man selbst was man mag. Ausgezeichnet und gerne wieder.",
+      "rating": "5",
+      "category": "gehoben",
+      "maps_link": "https://maps.app.goo.gl/x6dufaKMUBxhiHBL8",
+      "last_update": "21 Mar 2024"
     }
     ]
 };
