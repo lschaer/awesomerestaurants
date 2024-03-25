@@ -290,7 +290,7 @@ const restaurantData = {
       "rating": "3",
       "category": "leger",
       "maps_link": "https://maps.app.goo.gl/C9NAzZD32qEb9D2m7?g_st=ic",
-      "last_update": "20 Oct 2022"
+      "last_update": "23 Mar 2024"
     },
     {
       "name": "Piu",
