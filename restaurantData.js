@@ -41,6 +41,15 @@ const regionData = {
 const restaurantData = {
   "Restaurants": [
     {
+      "name": "Villa Honegg",
+      "regionID" : "Stans",
+      "description": "Eine wunderbare Aussicht! Links am Hang von Ennetbürgen und das Essen ist nicht weniger spektakulär. Es empfiehlt sich das Menu mit 4 oder 5 Gängen. Dieses stellt man nach belieben zusammen. Die Weinempfehlung war wunderbar und sehr passend. Gerne wieder!",
+      "rating": "5",
+      "category": "très chic",
+      "maps_link": "https://maps.app.goo.gl/GmBPHFnsCFFXRzvs9?g_st=ic",
+      "last_update": "1 Apr 2024"
+    },
+    {
       "name": "Restaurant Trögli",
       "regionID" : "Altdorf",
       "description": "Herzhaftes Essen in heimeliger Umgebung. Es empfiehlt sich das Filet auf dem heissen Stein und zwar am besten mit Kroketten. Dazu vielleicht etwas Rotwein.",
