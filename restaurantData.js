@@ -16,6 +16,9 @@ const regionData = {
       "name": "Freiamt"
     },
     {
+      "name": "Losone"
+    },
+    {
       "name": "Luzern"
     },
     {
@@ -40,6 +43,15 @@ const regionData = {
 // Restaurant-Data
 const restaurantData = {
   "Restaurants": [
+    {
+      "name": "Ristorante Grotto Broggini",
+      "regionID" : "Losone",
+      "description": "Einige sagen - das beste Güggeli im Tessin. Auf jedenfall wunderbar und jedesmal super lecker. Dazu gibt es Gemüse oder Pommes. Natürlich sind auch andere Gerichte toll, das Poulet vom Grill ist aber sicherlich der Star. Dazu gibt es tolles Ambiente und lokalen Wein.",
+      "rating": "4",
+      "category": "leger",
+      "maps_link": "https://maps.app.goo.gl/5ZGYsr3tToTngQoj7?g_st=ic",
+      "last_update": "01 Sep 2019"
+    },
     {
       "name": "RIO churrasco",
       "regionID" : "Stans",
