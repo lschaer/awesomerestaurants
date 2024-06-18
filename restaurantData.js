@@ -16,6 +16,9 @@ const regionData = {
       "name": "Freiamt"
     },
     {
+      "name": "Losone"
+    },
+    {
       "name": "Luzern"
     },
     {
@@ -40,6 +43,33 @@ const regionData = {
 // Restaurant-Data
 const restaurantData = {
   "Restaurants": [
+    {
+      "name": "Ristorante Grotto Broggini",
+      "regionID" : "Losone",
+      "description": "Einige sagen - das beste Güggeli im Tessin. Auf jedenfall wunderbar und jedesmal super lecker. Dazu gibt es Gemüse oder Pommes. Natürlich sind auch andere Gerichte toll, das Poulet vom Grill ist aber sicherlich der Star. Dazu gibt es tolles Ambiente und lokalen Wein.",
+      "rating": "4",
+      "category": "leger",
+      "maps_link": "https://maps.app.goo.gl/5ZGYsr3tToTngQoj7?g_st=ic",
+      "last_update": "01 Sep 2019"
+    },
+    {
+      "name": "RIO churrasco",
+      "regionID" : "Stans",
+      "description": "Perfekt für einen Abend mit Freunden. Die Beilagen holt jeder selbst, das Fleisch wird am Spiess direkt an den Tisch geliefert. Dabei ist auch Zebra oder Känguru dabei. Insgesamt ein gelungenes Erlebnis und man geht sicher nicht hungrig nach Hause. Zum Apero empfiehlt sich Caipirinha.",
+      "rating": "3",
+      "category": "leger",
+      "maps_link": "https://maps.app.goo.gl/wpWGVoABK8TDsUwz9?g_st=ic",
+      "last_update": "19 Apr 2024"
+    },
+    {
+      "name": "Villa Honegg",
+      "regionID" : "Stans",
+      "description": "Eine wunderbare Aussicht! Links am Hang von Ennetbürgen und das Essen ist nicht weniger spektakulär. Es empfiehlt sich das Menu mit 4 oder 5 Gängen. Dieses stellt man nach belieben zusammen. Die Weinempfehlung war wunderbar und sehr passend. Gerne wieder!",
+      "rating": "5",
+      "category": "très chic",
+      "maps_link": "https://maps.app.goo.gl/GmBPHFnsCFFXRzvs9?g_st=ic",
+      "last_update": "1 Apr 2024"
+    },
     {
       "name": "Restaurant Trögli",
       "regionID" : "Altdorf",
