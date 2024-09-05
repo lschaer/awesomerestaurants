@@ -366,6 +366,24 @@ const restaurantData = {
       "category": "leger",
       "maps_link": "https://maps.app.goo.gl/UYXKjwxJ2p7xpsNh7",
       "last_update": "22 Mar 2024"
+    },
+    {
+      "name": "Ristorante & Pizzeria Fischmärt",
+      "regionID": "Zug",
+      "description": "Entspannte Location insbesondere im Sommer. Draussen sitzen am Mittag ist auch im Hochsommer möglich, da innerhalb der engen Gasse noch schöne Schattenplätze verfügbar sind. Italienische Küche mit Pizza, Pasta oder Risotto empfiehlt sich sehr ob am Mittag oder Abend. Eine Reservation ist zu empfehlen.  ",
+      "rating": "3",
+      "category": "leger",
+      "maps_link": "https://www.ristorante-fischmaert.ch/",
+      "last_update": "05 Sep 2024"
+    },
+    {
+      "name": "Baan Thai - Focus Hotel",
+      "regionID": "Sempachersee",
+      "description": "Thailandische Küche mit einer grossen Auswahl. Vorspeisen zum Teilen sind fast ein Muss und auch das Thailandische Bier passt vorzüglich dazu. Ob Crevetten, Rindfleisch, Poulet oder Tofu, es findet sich sicher für jeden etwas passendes.",
+      "rating": "4",
+      "category": "leger",
+      "maps_link": "https://www.baanthai-sursee.ch/imfocushotel",
+      "last_update": "05 Sep 2024"
     }
     ]
 };
