@@ -384,6 +384,15 @@ const restaurantData = {
       "category": "leger",
       "maps_link": "https://www.baanthai-sursee.ch/imfocushotel",
       "last_update": "05 Sep 2024"
+    },
+    {
+      "name": "Restaurant Franz",
+      "regionID": "Luzern",
+      "description": "Eines der besten Schnitzel die du in Luzern finden kannst. Nicht ganz günstig aber tolles Ambiente, nette Bedienung mit Wiener Akzent und damit total Authentisch. Der Kaiserschmarrn als Dessert sollte man unbedingt probieren. Und auch der Wein aus einer grossen Auswahl solltest du dir nicht entgehen lassen #bigjohn.",
+      "rating": "4",
+      "category": "gehoben",
+      "maps_link": "https://www.restaurant-franz.ch/speisen",
+      "last_update": "11 Sep 2024"
     }
     ]
 };
