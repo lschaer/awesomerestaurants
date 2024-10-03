@@ -409,18 +409,18 @@ const restaurantData = {
   "description": "Testbeschreibung",
   "rating": "3",
   "category": "leger",
-  "region": "Zürich",
+  "regionID": "Zürich",
   "maps_link": "https://test.ch",
-  "last_changes": "2024-10-02"
+  "last_update": "26 Sep 2024"
 },
   {
   "name": "Test",
   "description": "Test 2",
   "rating": "2",
   "category": "leger",
-  "region": "Zürich",
+  "regionID": "Zürich",
   "maps_link": "https://jagenau.ch",
-  "last_changes": "2024-10-02"
+  "last_update": "26 Sep 2024"
 }]
 };
 
