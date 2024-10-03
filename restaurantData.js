@@ -405,22 +405,13 @@ const restaurantData = {
     }
 ,
   {
-  "name": "Test",
-  "description": "Testbeschreibung",
-  "rating": "3",
-  "category": "leger",
+  "name": "Kronenhalle",
+  "description": "Eleganz und Tradition mit währschaften Gerichten. In der Kronenhalle muss man einfach mal gegessen haben. Zürigschnätzlets mit Rösti ist einer der klassiker und sehr empfehlenswert. Zur Vorspeise ist der Crevettencocktail vorzüglich und das Dessert - Mousse au chocolat mit double crème de Gruyère.",
+  "rating": "4",
+  "category": "gehoben",
   "regionID": "Zürich",
-  "maps_link": "https://test.ch",
-  "last_update": "26 Sep 2024"
-},
-  {
-  "name": "Test",
-  "description": "Test 2",
-  "rating": "2",
-  "category": "leger",
-  "regionID": "Zürich",
-  "maps_link": "https://jagenau.ch",
-  "last_update": "26 Sep 2024"
+  "maps_link": "https://maps.app.goo.gl/gx3WwHtUvJJuZiR1A",
+  "last_update": "18 Aug 2024"
 }]
 };
 
