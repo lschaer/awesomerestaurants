@@ -403,6 +403,24 @@ const restaurantData = {
       "maps_link": "https://maps.app.goo.gl/ofjVMn7y8Utpun528",
       "last_update": "26 Sep 2024"
     }
-    ]
+,
+  {
+  "name": "Test",
+  "description": "Testbeschreibung",
+  "rating": "3",
+  "category": "leger",
+  "region": "Zürich",
+  "maps_link": "https://test.ch",
+  "last_changes": "2024-10-02"
+},
+  {
+  "name": "Test",
+  "description": "Test 2",
+  "rating": "2",
+  "category": "leger",
+  "region": "Zürich",
+  "maps_link": "https://jagenau.ch",
+  "last_changes": "2024-10-02"
+}]
 };
 
