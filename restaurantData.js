@@ -421,24 +421,6 @@ const restaurantData = {
   "regionID": "Luzern",
   "maps_link": "https://maps.app.goo.gl/pCm9eDGkyaX4gGRr5",
   "last_update": "04 Oct 2024"
-},
-  {
-  "name": "Testsetup",
-  "description": "Test",
-  "rating": "1",
-  "category": "leger",
-  "regionID": "Seelisberg",
-  "maps_link": "test.com",
-  "last_update": "04 Oct 2024"
-},
-  {
-  "name": "Test Lucius Final",
-  "description": "Testbeschreibung",
-  "rating": "1",
-  "category": "leger",
-  "regionID": "Seelisberg",
-  "maps_link": "test.com",
-  "last_update": "04 Oct 2024"
 }]
 };
 
