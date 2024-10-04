@@ -412,6 +412,15 @@ const restaurantData = {
   "regionID": "Zürich",
   "maps_link": "https://maps.app.goo.gl/gx3WwHtUvJJuZiR1A",
   "last_update": "18 Aug 2024"
+},
+  {
+  "name": "Brasserie Bodu",
+  "description": "Charmante Location in der Altstadt von Luzern. Eine wechselnde saisonale Speisekarte und eine ausgezeichnete Weinauswahl lässt für jeden etwas finden. Das Ambiente ist gemütlich und erinnert an klassische französische Bistros. Das Entrecôte Café de Paris ist ein Muss. ",
+  "rating": "4",
+  "category": "gehoben",
+  "regionID": "Luzern",
+  "maps_link": "https://maps.app.goo.gl/pCm9eDGkyaX4gGRr5",
+  "last_update": "04 Oct 2024"
 }]
 };
 
