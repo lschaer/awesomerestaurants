@@ -430,6 +430,15 @@ const restaurantData = {
   "regionID": "Seelisberg",
   "maps_link": "test.com",
   "last_update": "04 Oct 2024"
+},
+  {
+  "name": "Test Lucius Final",
+  "description": "Testbeschreibung",
+  "rating": "1",
+  "category": "leger",
+  "regionID": "Seelisberg",
+  "maps_link": "test.com",
+  "last_update": "04 Oct 2024"
 }]
 };
 
