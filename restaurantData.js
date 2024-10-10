@@ -421,6 +421,15 @@ const restaurantData = {
   "regionID": "Luzern",
   "maps_link": "https://maps.app.goo.gl/pCm9eDGkyaX4gGRr5",
   "last_update": "04 Oct 2024"
+},
+  {
+  "name": "Ristorante Giessenhof",
+  "description": "In Dallenwil findet sich nicht nur der tollste Geisskäse sondern auch empfehlenswerte Restaurants. Ob Pizza oder Wildspezialität im Herbst, die Karte lässt hier nichts zu wünschen übrig. Auch für ein Mittagsmenu eine passende Adresse. ",
+  "rating": "2",
+  "category": "leger",
+  "regionID": "Stans",
+  "maps_link": "https://maps.app.goo.gl/BtzVPLbh5iTXeNB38",
+  "last_update": "10 Oct 2024"
 }]
 };
 
