@@ -430,6 +430,15 @@ const restaurantData = {
   "regionID": "Stans",
   "maps_link": "https://maps.app.goo.gl/BtzVPLbh5iTXeNB38",
   "last_update": "10 Oct 2024"
+},
+  {
+  "name": "Pizzeria Da Pino",
+  "description": "Auf der Suche nach einer knusprigen Pizza am Abend oder Mittag? Bei Da Pino bist du richtig. Entspannt, schnell und freundlich! Feine Pizza - Meine Wahl ist hier jeweils die Pizza Calzone und auch das Tiramisu zum Dessert ist zu empfehlen. Enjoy!",
+  "rating": "3",
+  "category": "leger",
+  "regionID": "Zug",
+  "maps_link": "https://maps.app.goo.gl/AnqgXbeBUrPWorpy8",
+  "last_update": "22 Oct 2024"
 }]
 };
 
