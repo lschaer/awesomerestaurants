@@ -439,6 +439,15 @@ const restaurantData = {
   "regionID": "Zug",
   "maps_link": "https://maps.app.goo.gl/AnqgXbeBUrPWorpy8",
   "last_update": "22 Oct 2024"
+},
+  {
+  "name": "Neue Taverne",
+  "description": "Tolles vegetarisches Restaurant im Herzen von Zürich. Tavolata mit Überraschungsmenu lässt neues entdecken und ist einfach zum geniessen. Der Service ist zudem 1A und es macht einfach Freude einen Abend dort zu verbringen.",
+  "rating": "4",
+  "category": "leger",
+  "regionID": "Zürich",
+  "maps_link": "https://maps.app.goo.gl/QiiKRrPBzgFFG7ju6?g_st=ic",
+  "last_update": "26 Oct 2024"
 }]
 };
 
