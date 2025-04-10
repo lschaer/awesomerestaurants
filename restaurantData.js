@@ -448,6 +448,15 @@ const restaurantData = {
   "regionID": "Zürich",
   "maps_link": "https://maps.app.goo.gl/QiiKRrPBzgFFG7ju6?g_st=ic",
   "last_update": "26 Oct 2024"
+},
+  {
+  "name": "QIRIN - Sushi & Drinks",
+  "description": "Schönes Sushi Restaurant im Herzen von Luzern. Eiladende Atmosphäre und qualitativ hochwertiges Essen. Nicht günstig aber sicherlich einen Besuch wert. Sushi in unterschiedlichsten Variationen. Enjoy!",
+  "rating": "4",
+  "category": "leger",
+  "regionID": "Luzern",
+  "maps_link": "https://maps.app.goo.gl/Nk83NT4BhP5a33zM7",
+  "last_update": "10 Apr 2025"
 }]
 };
 
