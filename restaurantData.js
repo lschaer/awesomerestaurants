@@ -451,7 +451,7 @@ const restaurantData = {
 },
   {
   "name": "QIRIN - Sushi & Drinks",
-  "description": "Schönes Sushi Restaurant im Herzen von Luzern. Eiladende Atmosphäre und qualitativ hochwertiges Essen. Nicht günstig aber sicherlich einen Besuch wert. Sushi in unterschiedlichsten Variationen. Enjoy!",
+  "description": "Schönes Sushi Restaurant im Herzen von Luzern. Einladende Atmosphäre und qualitativ hochwertiges Essen. Nicht günstig aber sicherlich einen Besuch wert. Sushi in unterschiedlichsten Variationen. Enjoy!",
   "rating": "4",
   "category": "leger",
   "regionID": "Luzern",
@@ -460,7 +460,7 @@ const restaurantData = {
 },
   {
   "name": "Restaurant Chiffon",
-  "description": "Der charme eines französischen Bistrot und leckeres Essen machen den Besuch hier zu einer wahren Freude. Eines der besten Restaurants in Zürich wenn man nach POT DE MOULES À LA CRÈME sucht. Eine Reservation lohnt sich um sicherlich einen Platz zu finden. bon appétit!",
+  "description": "Der charme eines französischen Bistro und leckeres Essen machen den Besuch hier zu einer wahren Freude. Eines der besten Restaurants in Zürich, wenn man nach `POT DE MOULES À LA CRÈME` sucht. Eine Reservation lohnt sich um sicherlich einen Platz zu finden. bon appétit!",
   "rating": "4",
   "category": "gehoben",
   "regionID": "Zürich",
