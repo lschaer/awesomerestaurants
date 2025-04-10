@@ -386,15 +386,6 @@ const restaurantData = {
       "last_update": "05 Sep 2024"
     },
     {
-      "name": "Restaurant Franz",
-      "regionID": "Luzern",
-      "description": "Eines der besten Schnitzel die du in Luzern finden kannst. Nicht ganz günstig aber tolles Ambiente, nette Bedienung mit Wiener Akzent und damit total Authentisch. Der Kaiserschmarrn als Dessert sollte man unbedingt probieren. Und auch der Wein aus einer grossen Auswahl solltest du dir nicht entgehen lassen #bigjohn.",
-      "rating": "4",
-      "category": "gehoben",
-      "maps_link": "https://maps.app.goo.gl/JRLQxA2peLBFWczPA",
-      "last_update": "11 Sep 2024"
-    },
-    {
       "name": "yume Ramen",
       "regionID": "Zürich",
       "description": "Gyoza zur Vorspeise, Tantanmen Ramen danach und am besten ein paar Mochi zum Abgang - die perfekte Kombi. Authentisch japanisches Ambiente und super lecker. Meist sehr gut besucht und eine Reservation von Vorteil. Breite Auswahl an unterschiedlichen Ramen Gerichte und optional schärfere Varianten möglich. Itadakimasu!",
