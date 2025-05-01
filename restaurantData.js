@@ -7,6 +7,9 @@ const regionData = {
       "name": "Altdorf"
     },
     {
+      "name": "Basel-Stadt"
+    },
+    {
       "name": "Cham"
     },
     {
