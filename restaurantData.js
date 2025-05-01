@@ -457,6 +457,15 @@ const restaurantData = {
   "regionID": "Zürich",
   "maps_link": "https://maps.app.goo.gl/C1KxtYmoiHRkQyTJA",
   "last_update": "10 Apr 2025"
+},
+  {
+  "name": "Gifthüttli",
+  "description": "\"... Bier, das nicht direkt beim Bierbrauer getrunken werde, ist Gift.\" So kam dieses traditionsreiche Restaurant vor etwa 120 Jahren zu seinem Namen. Heute gibt es leckeres traditionelles Essen wie zum Beispiel Cordon-Bleue in unterschiedlichen Ausführungen. Auch aktuelles wie Spargeln im Frühling finden den Weg auf die Speisekarte. Perfekt für einen Abend mit Freunden im Herzen von Basel.",
+  "rating": "4",
+  "category": "leger",
+  "regionID": "Basel-Stadt",
+  "maps_link": "https://maps.app.goo.gl/4ihRubnLz87jA5Vn6",
+  "last_update": "01 May 2025"
 }]
 };
 
