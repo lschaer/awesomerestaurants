@@ -469,6 +469,15 @@ const restaurantData = {
   "regionID": "Basel-Stadt",
   "maps_link": "https://maps.app.goo.gl/4ihRubnLz87jA5Vn6",
   "last_update": "01 May 2025"
+},
+  {
+  "name": "Blinde Kuh",
+  "description": "In absoluter Dunkelheit gibt es ein Überraschungsessen. Tolle Erfahrung und echt empfehlenswert. Was du effektiv auf dem Teller hattest erfährst du erst danach. Fokus voll aufs Essen und den Geschmack. Keine Ablenkung und schärfen deiner Sinne. Beeindruckender Service und ein spezielles Erlebnis. Nicht für jedes Essen aber definitiv einen Besuch wert.  ",
+  "rating": "4",
+  "category": "leger",
+  "regionID": "Zürich",
+  "maps_link": "https://maps.app.goo.gl/K9KtN9ZHaz7D8MFo8",
+  "last_update": "05 Aug 2025"
 }]
 };
 
