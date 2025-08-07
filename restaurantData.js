@@ -478,6 +478,15 @@ const restaurantData = {
   "regionID": "Zürich",
   "maps_link": "https://maps.app.goo.gl/K9KtN9ZHaz7D8MFo8",
   "last_update": "05 Aug 2025"
+},
+  {
+  "name": "Grottino 1313",
+  "description": "Schöne und einladende Location. Ein Menu für alle mit Option vegetarisch. Suppen- und Salatschüsseln zum Teilen und eine wundervolle Vielfalt an regionalen Zutaten machen das Essen im Grottino zu einem Erlebnis. Unbedingt reservieren, da auch unter der Woche sehr gut besucht.",
+  "rating": "5",
+  "category": "gehoben",
+  "regionID": "Luzern",
+  "maps_link": "https://maps.app.goo.gl/rJGL7dSY5csfREmR6",
+  "last_update": "07 Aug 2025"
 }]
 };
 
