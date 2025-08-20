@@ -487,6 +487,15 @@ const restaurantData = {
   "regionID": "Luzern",
   "maps_link": "https://maps.app.goo.gl/rJGL7dSY5csfREmR6",
   "last_update": "07 Aug 2025"
+},
+  {
+  "name": "Pastarazzi",
+  "description": "Sehr charmantes italienisches Pasta-Restaurant mit selbstgemachten Ravioli und saisonalen Menüs - frisch und lecker. Die Karte ist kompakt, aber durchdacht. Besonders toll sind die individualisierbaren Ravioli-Kreationen und das gemütliche Ambiente. Es empfiehlt sich eine Reservierung, da es meist gut ausgebucht ist.",
+  "rating": "5",
+  "category": "leger",
+  "regionID": "Luzern",
+  "maps_link": "https://maps.app.goo.gl/YLTrnmMdY7Nq99DM9",
+  "last_update": "20 Aug 2025"
 }]
 };
 
