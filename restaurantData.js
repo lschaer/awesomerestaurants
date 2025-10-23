@@ -496,6 +496,15 @@ const restaurantData = {
   "regionID": "Luzern",
   "maps_link": "https://maps.app.goo.gl/YLTrnmMdY7Nq99DM9",
   "last_update": "20 Aug 2025"
+},
+  {
+  "name": "Landgasthaus Strauss",
+  "description": "Im beschaulichen Meierskappel lädt das Landgasthaus Strauss zur klassischen Schweizer Küche ein. Abwechslungsreiche Gerichte je nach Jahreszeit und frisch zubereitet. Ein Filet oder Entercote auf dem heissen Stein ist auf jedenfall zu Empfehlen.",
+  "rating": "2",
+  "category": "leger",
+  "regionID": "Luzern",
+  "maps_link": "https://maps.app.goo.gl/KSYHXBYor1sny6z76",
+  "last_update": "23 Oct 2025"
 }]
 };
 
