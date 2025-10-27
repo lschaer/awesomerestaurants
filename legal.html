@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Rechtliches · awesomerestaurants.ch</title>
+  <style>
+    :root { --fg:#111; --muted:#666; --bg:#fff; --link:#0b65c2; }
+    html { color-scheme: light; }
+    body { margin:0; font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; color:var(--fg); background:var(--bg); }
+    main { max-width:780px; margin:40px auto; padding:0 16px; }
+    h1,h2,h3 { line-height:1.2; margin:1.2em 0 .4em; }
+    h1 { font-size:1.8rem; }
+    h2 { font-size:1.25rem; margin-top:2rem; }
+    p,li { color:var(--fg); }
+    small,.muted { color:var(--muted); }
+    a { color:var(--link); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    nav { display:flex; gap:8px; align-items:center; justify-content:flex-end; }
+    .btn { border:1px solid #ddd; padding:.35rem .6rem; border-radius:.6rem; background:#f7f7f7; cursor:pointer; font-size:.9rem; }
+    .btn[aria-pressed="true"] { background:#eee; border-color:#ccc; }
+    section { margin-bottom:1.6rem; }
+    hr { border:0; height:1px; background:#eee; margin:1.6rem 0; }
+    footer { margin:2rem 0 4rem; font-size:.9rem; color:var(--muted); }
+    [data-lang][hidden] { display:none!important; }
+    .card { border:1px solid #eee; border-radius:12px; padding:16px; }
+    ul { padding-left:1.1rem; }
+    code { font:.95em ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; background:#f6f7f8; padding:.1rem .3rem; border-radius:.3rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <nav aria-label="Language">
+        <button class="btn" id="btn-de" aria-pressed="true">DE</button>
+        <button class="btn" id="btn-en" aria-pressed="false">EN</button>
+      </nav>
+      <h1 data-lang="de">Rechtliches · awesomerestaurants.ch</h1>
+      <h1 data-lang="en" hidden>Legal · awesomerestaurants.ch</h1>
+      <p class="muted" data-lang="de">Gültig für Besucher aus der Schweiz und der EU.</p>
+      <p class="muted" data-lang="en" hidden>Applies to visitors from Switzerland and the EU.</p>
+    </header>
+
+    <!-- IMPRESSUM -->
+    <section>
+      <h2 data-lang="de">Impressum</h2>
+      <h2 data-lang="en" hidden>Imprint</h2>
+      <div class="card">
+        <p data-lang="de"><strong>Betreiber:</strong> Lucius Schärer</p>
+        <p data-lang="en" hidden><strong>Operator:</strong> Lucius Schärer</p>
+        <p><strong>Email:</strong> <a href="mailto:contact@luciusschaerer.space">contact@luciusschaerer.space</a></p>
+      </div>
+    </section>
+
+    <hr />
+
+    <!-- PRIVACY -->
+    <section>
+      <h2 data-lang="de">Datenschutzerklärung</h2>
+      <h2 data-lang="en" hidden>Privacy Policy</h2>
+
+      <h3 data-lang="de">1. Verantwortliche Stelle</h3>
+      <h3 data-lang="en" hidden>1. Controller</h3>
+      <p data-lang="de">Lucius Schärer, Schweiz · <a href="mailto:contact@luciusschaerer.space">contact@luciusschaerer.space</a></p>
+      <p data-lang="en" hidden>Lucius Schärer, Switzerland · <a href="mailto:contact@luciusschaerer.space">contact@luciusschaerer.space</a></p>
+
+      <h3 data-lang="de">2. Verarbeitete Daten</h3>
+      <h3 data-lang="en" hidden>2. Data Processed</h3>
+      <ul data-lang="de">
+        <li>Server-Logs (IP, Datum/Uhrzeit, URL, User-Agent)</li>
+        <li>Cookies für Analyse/Einbettungen (siehe unten)</li>
+        <li>Daten aus Kontaktanfragen (Name, E-Mail, Nachricht)</li>
+      </ul>
+      <ul data-lang="en" hidden>
+        <li>Server logs (IP, date/time, URL, user agent)</li>
+        <li>Cookies for analytics/embeds (see below)</li>
+        <li>Contact form data (name, email, message)</li>
+      </ul>
+
+      <h3 data-lang="de">3. Zwecke & Rechtsgrundlagen</h3>
+      <h3 data-lang="en" hidden>3. Purposes & Legal Bases</h3>
+      <ul data-lang="de">
+        <li>Betrieb, Sicherheit, Performance der Website</li>
+        <li>Antwort auf Anfragen</li>
+        <li>Reichweitenmessung und Inhaltsverbesserung</li>
+      </ul>
+      <ul data-lang="en" hidden>
+        <li>Site operation, security, and performance</li>
+        <li>Responding to inquiries</li>
+        <li>Audience measurement and content improvement</li>
+      </ul>
+
+      <h3 data-lang="de">4. Cookies & Analyse</h3>
+      <h3 data-lang="en" hidden>4. Cookies & Analytics</h3>
+      <p data-lang="de">Diese Seite kann <strong>Google Analytics</strong> oder gleichwertige Tools verwenden. Dies setzt Cookies und übermittelt anonymisierte Nutzungsdaten an den Anbieter. Opt-out: <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">tools.google.com/dlpage/gaoptout</a>.</p>
+      <p data-lang="en" hidden>This site may use <strong>Google Analytics</strong> or similar tools. This sets cookies and transmits anonymized usage data to the provider. Opt-out: <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">tools.google.com/dlpage/gaoptout</a>.</p>
+
+      <h3 data-lang="de">5. Eingebettete Inhalte</h3>
+      <h3 data-lang="en" hidden>5. Embedded Content</h3>
+      <p data-lang="de">Beiträge können Inhalte Dritter (z. B. YouTube, Instagram, Google Maps) enthalten. Diese Anbieter können Daten erfassen und Cookies setzen, als ob Sie deren Seite direkt besuchen.</p>
+      <p data-lang="en" hidden>Posts may include third-party embeds (e.g., YouTube, Instagram, Google Maps). These providers may collect data and set cookies as if you visited their site directly.</p>
+
+      <h3 data-lang="de">6. Speicherort & Sicherheit</h3>
+      <h3 data-lang="en" hidden>6. Storage & Security</h3>
+      <p data-lang="de">Daten werden in der Schweiz oder EU gespeichert. Es bestehen angemessene technische und organisatorische Schutzmaßnahmen.</p>
+      <p data-lang="en" hidden>Data is stored in Switzerland or the EU. Appropriate technical and organizational measures are in place.</p>
+
+      <h3 data-lang="de">7. Rechte der Nutzer</h3>
+      <h3 data-lang="en" hidden>7. Your Rights</h3>
+      <p data-lang="de">Auskunft, Berichtigung, Löschung, Widerspruch: <a href="mailto:contact@luciusschaerer.space">contact@luciusschaerer.space</a></p>
+      <p data-lang="en" hidden>Access, rectification, erasure, objection: <a href="mailto:contact@luciusschaerer.space">contact@luciusschaerer.space</a></p>
+
+      <h3 data-lang="de">8. Rechtsgrundlagen</h3>
+      <h3 data-lang="en" hidden>8. Legal Basis</h3>
+      <p data-lang="de">nDSG (Schweiz) und GDPR (EU). Diese Erklärung kann aktualisiert werden; es gilt die jeweils veröffentlichte Version.</p>
+      <p data-lang="en" hidden>Swiss nDSG and EU GDPR. This notice may be updated; the published version is authoritative.</p>
+    </section>
+
+    <hr />
+
+    <!-- DISCLAIMER -->
+    <section>
+      <h2 data-lang="de">Haftungsausschluss</h2>
+      <h2 data-lang="en" hidden>Disclaimer</h2>
+      <p data-lang="de">Alle Inhalte (z. B. Eindrücke, Meinungen, Restaurant-Informationen) dienen allgemeinen Informationszwecken. Angaben zu Restaurants, Menüs, Preisen und Öffnungszeiten können sich ändern. <strong>Keine Gewähr</strong> für Richtigkeit, Vollständigkeit oder Aktualität. Nutzung auf eigenes Risiko. Externe Links liegen außerhalb unserer Kontrolle und implizieren keine Empfehlung.</p>
+      <p data-lang="en" hidden>All content (e.g., impressions, opinions, restaurant info) is for general information only. Details such as venues, menus, prices and hours may change. <strong>No warranty</strong> for accuracy, completeness or timeliness. Use at your own risk. External links are beyond our control and do not imply endorsement.</p>
+    </section>
+
+    <footer>
+      <small data-lang="de">© <span id="y-de"></span> awesomerestaurants.ch · Letzte Aktualisierung: <time id="d-de"></time></small>
+      <small data-lang="en" hidden>© <span id="y-en"></span> awesomerestaurants.ch · Last updated: <time id="d-en"></time></small>
+    </footer>
+  </main>
+
+  <script>
+    // language toggle: switch ALL elements for each language
+    function setLang(lang) {
+      document.querySelectorAll("[data-lang]").forEach(el => {
+        el.hidden = el.getAttribute("data-lang") !== lang;
+      });
+      document.getElementById("btn-de").setAttribute("aria-pressed", String(lang==="de"));
+      document.getElementById("btn-en").setAttribute("aria-pressed", String(lang==="en"));
+    }
+    document.getElementById("btn-de").addEventListener("click", () => setLang("de"));
+    document.getElementById("btn-en").addEventListener("click", () => setLang("en"));
+
+    // dates
+    const now=new Date();
+    const fmt=(loc)=>now.toLocaleDateString(loc,{year:"numeric",month:"2-digit",day:"2-digit"});
+    document.getElementById("y-de").textContent = now.getFullYear();
+    document.getElementById("d-de").textContent = fmt("de-CH");
+    document.getElementById("y-en").textContent = now.getFullYear();
+    document.getElementById("d-en").textContent = fmt("en-GB");
+  </script>
+</body>
+</html>
