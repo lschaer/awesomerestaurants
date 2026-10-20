@@ -38,6 +38,9 @@ const regionData = {
     },
     {
       "name": "Zürich"
+    },
+    {
+      "name": "Schwyz"
     }
     ]
 };
