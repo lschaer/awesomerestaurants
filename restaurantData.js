@@ -526,6 +526,15 @@ const restaurantData = {
   "regionID": "Luzern",
   "maps_link": "https://maps.app.goo.gl/UTVjt2RJxmFsyXcD7",
   "last_update": "20 Oct 2026"
+},
+  {
+  "name": "Restaurant Reussbad",
+  "description": "Wir hatten einen richtig schönen Abend im Reussbad in Luzern. Man wählt zwischen 4, 5, 6 oder 7 Gängen, das Essen war wunderbar, und mit dem Winepairing wird es noch ein Stück runder. Perfekt für einen entspannten Abend mit Freunden, absolut empfehlenswert.",
+  "rating": "4",
+  "category": "gehoben",
+  "regionID": "Luzern",
+  "maps_link": "https://maps.app.goo.gl/7vqmN8GmCS4kSZMq5",
+  "last_update": "20 Oct 2026"
 }]
 };
 
