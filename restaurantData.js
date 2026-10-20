@@ -517,6 +517,15 @@ const restaurantData = {
   "regionID": "Schwyz",
   "maps_link": "https://maps.app.goo.gl/bdzcCFZSyjgEQSZy6",
   "last_update": "20 Oct 2026"
+},
+  {
+  "name": "Pikante",
+  "description": "Richtig gutes peruanisches Essen im Pikante: moderne Küche mit viel Geschmack und Aromen, die Spass machen. Unbedingt probieren sollte man die Anticuchos de Corazón (Rinderherzen vom Grill), die sind zart und mega lecker. Ebenfalls top ist die Kombination aus Fleisch und Fisch. Am besten alles teilen.",
+  "rating": "4",
+  "category": "leger",
+  "regionID": "Luzern",
+  "maps_link": "https://maps.app.goo.gl/UTVjt2RJxmFsyXcD7",
+  "last_update": "20 Oct 2026"
 }]
 };
 
