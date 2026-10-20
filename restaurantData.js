@@ -508,6 +508,15 @@ const restaurantData = {
   "regionID": "Luzern",
   "maps_link": "https://maps.app.goo.gl/KSYHXBYor1sny6z76",
   "last_update": "23 Oct 2025"
+},
+  {
+  "name": "Restaurant Magdalena",
+  "description": "Ein Abend, der wirklich überrascht: Das vegetarische Überraschungsmenu im Magdalena ist so einfallsreich und kreativ, dass man nach jedem Gang gespannt auf den nächsten wartet. Der Service ist herzlich und aufmerksam, und die Weinbegleitung macht das Erlebnis erst richtig rund, ein absolutes Muss. Am besten früh reservieren!",
+  "rating": "5",
+  "category": "gehoben",
+  "regionID": "Schwyz",
+  "maps_link": "https://maps.app.goo.gl/bdzcCFZSyjgEQSZy6",
+  "last_update": "20 Oct 2026"
 }]
 };
 
