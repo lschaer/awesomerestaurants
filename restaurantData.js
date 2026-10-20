@@ -25,6 +25,9 @@ const regionData = {
       "name": "Luzern"
     },
     {
+      "name": "Schwyz"
+    },
+    {
       "name": "Seelisberg"
     },
     {
@@ -38,9 +41,6 @@ const regionData = {
     },
     {
       "name": "Zürich"
-    },
-    {
-      "name": "Schwyz"
     }
     ]
 };
